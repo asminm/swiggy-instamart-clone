@@ -1,0 +1,742 @@
+            .body{
+                font-family: sans-serif;
+            }
+    
+            .outer-box {
+                width: 95%;
+                height: 137px;
+                margin-left: 24px;
+                margin-top: -1%;
+                background-color: orange;
+            }
+        
+               .inner-box {
+                width: 84%;
+                height: 45px;
+                background-color: white;
+                position: absolute;
+                left: 83px;
+                top: 77px;
+                border-radius: 10px;
+                
+            }
+                .para5 {
+                    font-size: 14px;
+                    position: absolute;
+                    left: 17px;
+                    top: -1px;
+                    color: #938e8e;
+            }
+                header {
+                    width: 250px;
+                    height: 52px;
+
+                    background-color: rgb(53, 58, 198);
+                    color: #fff;
+                    position: absolute;left: 10px;top: 10px;
+                
+                }
+                        
+    
+                    
+                    .para1 {
+                        font-size: 13px;
+                        font-weight: bold;
+                        color:black;
+                        position: absolute;
+                        top: 12px;
+                        left: 150px;
+                        
+                        
+                    }
+                
+             
+             .para2{
+                font-size: 14px;
+                position: absolute; top: 30px;left: 150px;
+                color: black;
+               font-weight: bold;
+                }
+            
+                .box {
+                    width: 40px;
+                    height: 40px;
+                    background-color: #f15700;
+                    position: absolute;
+                    left: 103px;
+                    top: 22px;
+                    border-radius: 20%;
+                }
+                .para3 {
+                    font-size: 19px;
+                    color: #fff;
+                    position: absolute;
+                    left: 15px;
+                    top: -17px;
+                    font-family: fantasy;
+                     
+                }
+                .para4{
+                    font-size: 14px;
+                    color: #fff;
+                    position: absolute;
+                    left: 7px;
+                    top: 7px;
+                    font-family: fantasy;
+                }
+            
+                
+                .Search-button {
+                    height: 20px;
+                    width: 22px;
+                    padding-left: 868px;
+                    padding-top: 14px;
+                 
+                }
+       .profile {
+        position: absolute;
+        top: -5px;
+        left: -7px;
+        width: 42px;
+        height: 42px;
+        border-radius: 100%;
+    }
+   
+
+
+
+            
+    .profile-box {
+        background-color: #fff;
+        width: 28px;
+        height: 32px;
+        position: absolute;
+        left: 959px;
+        top: 18px;
+        border-radius: 500%;
+    }
+                .outer-box2 {
+                    width: 953px;
+                    height: 335px;
+                    background-color:#fff;
+                    position: absolute;
+                    left: -28px;
+                    top: 57px;
+                }
+                .shop {
+                    font-size: 13px;
+                    
+                   color: #4e4c4c;
+                    padding-left: 11px;
+                    font-weight: bold;
+                }
+                .line {
+                    width: 81%;
+                    height: 2px;
+                    background-color:#e2d9d9;
+                    position: absolute;
+                    top: 20px;
+                    left: 154px;
+                  
+                }
+                .catgory{
+                    height: 12px;
+                    width: 10px;
+                }
+                .veg {
+                    font-size: 11px;
+                    position: absolute;
+                    left: 18px;
+                    top: 136px;
+                    font-weight: bold;
+                    color: #413d3d;
+                }
+                .fruits{
+                    font-size: 11px;
+                    position: absolute;
+                    left: 141px;
+                    top: 136px;
+                    font-weight: bold;
+                    color: #413d3d;
+
+                }
+                
+                .bread{
+                    font-size: 11px;
+                    position: absolute;
+                    left: 232px;
+                    top: 136px;
+                    font-weight: bold;
+                    color: #413d3d
+
+                }
+                .rice{
+                    font-size: 11px;
+                    position: absolute;
+                    left: 368px;
+                    top: 136px;
+                    font-weight: bold;
+                    color: #413d3d
+                }
+                .masala{
+                    font-size: 11px;
+                    position: absolute;
+                    left: 489px;
+                    top: 136px;
+                    font-weight: bold;
+                    color: #413d3d
+
+                }
+                .oils{
+                    font-size: 11px;
+                    position: absolute;
+                    left: 631px;
+                    top: 136px;
+                    font-weight: bold;
+                    color: #413d3d
+
+
+                }
+                .chips{
+                    font-size: 11px;
+                    position: absolute;
+                    left: 755px;
+                    top: 136px;
+                    font-weight: bold;
+                    color: #413d3d
+
+                }
+                .sweet{
+                    font-size: 11px;
+                    position: absolute;
+                    left: 857px;
+                    top: 136px;
+                    font-weight: bold;
+                    color: #413d3d
+
+
+                }
+                .cold{
+                    font-size: 11px;
+                    position: absolute;
+                    left: 40px;
+                    top: 289px;
+                    font-weight: bold;
+                    color: #413d3d
+
+                }
+                .jul{
+                    font-size: 11px;
+                    position: absolute;
+                    left: 60px;
+                    top: 299px;
+                    font-weight: bold;
+                    color: #413d3d
+                }
+                .bis{
+                    font-size: 11px;
+                    position: absolute;
+                    left: 159px;
+                    top: 289px;
+                    font-weight: bold;
+                    color: #413d3d
+                }
+                .cake{
+                    font-size: 11px;
+                    position: absolute;
+                    left: 170px;
+                    top: 299px;
+                    font-weight: bold;
+                    color: #413d3d
+                }
+                .ins{
+                    font-size: 11px;
+                    position: absolute;
+                    left: 255px;
+                    top: 288px;
+                    font-weight: bold;
+                    color: #413d3d
+
+                }
+                .food{
+                    font-size: 11px;
+                    position: absolute;
+                    left: 285px;
+                    top: 299px;
+                    font-weight: bold;
+                    color: #413d3d
+
+                }
+                .me{
+                    font-size: 13px;
+                    position: absolute;
+                    left: 390px;
+                    top: 286px;
+                    font-weight: bold;
+                    color: #413d3d
+
+                }
+                .sea{
+                    font-size: 13px;
+                    position: absolute;
+                    left: 390px;
+                    top: 299px;
+                    font-weight: bold;
+                    color: #413d3d
+                }
+                .cer{
+                    font-size: 13px;
+                    position: absolute;
+                    left: 488px;
+                    top: 286px;
+                    font-weight: bold;
+                    color: #413d3d
+
+                }
+                .bre{
+                    font-size: 13px;
+                    position: absolute;
+                    left: 493px;
+                    top: 299px;
+                    font-weight: bold;
+                    color: #413d3d
+                }
+                .sup{
+                    font-size: 13px;
+                    position: absolute;
+                    left: 603px;
+                    top: 286px;
+                    font-weight: bold;
+                    color: #413d3d
+                    
+                }
+                .spr{
+                    font-size: 13px;
+                    position: absolute;
+                    left: 610px;
+                    top: 299px;
+                    font-weight: bold;
+                    color: #413d3d
+                }
+                .te{
+                    font-size: 13px;
+                    position: absolute;
+                    left: 708px;
+                    top: 286px;
+                    font-weight: bold;
+                    color: #413d3d
+                }
+                .mor{
+                    font-size: 13px;
+                    position: absolute;
+                    left: 743px;
+                    top: 299px;
+                    font-weight: bold;
+                    color: #413d3d
+                }
+                .cle{
+                    font-size: 13px;
+                    position: absolute;
+                    left: 839px;
+                    top: 286px;
+                    font-weight: bold;
+                    color: #413d3d
+                }
+                .es{
+                    font-size: 13px;
+                    position: absolute;
+                    left: 835px;
+                    top: 299px;
+                    font-weight: bold;
+                    color: #413d3d
+                }
+                .outer-box3{
+                    
+                height: 570px;
+                width: 942px;
+                 background-color:#fff;
+                 position: absolute;
+                 top: 392px;
+                     left: -28px;          
+
+                }
+                .ph{
+                    font-size: 13px;
+                    position: absolute;
+                    left: 20px;
+                    top: 99px;
+                    font-weight: bold;
+                    color: #413d3d
+                }
+                .bath{
+                    font-size: 13px;
+                    position: absolute;
+                    left: 156px;
+                    top: 99px;
+                    font-weight: bold;
+                    color: #413d3d
+
+                }
+                .paan{
+                    font-size: 13px;
+                    position: absolute;
+                    left: 292px;
+                    top: 99px;
+                    font-weight: bold;
+                    color: #413d3d
+
+                }
+                .home{
+                    font-size: 13px;
+                    position: absolute;
+                    left: 383px;
+                    top: 99px;
+                    font-weight: bold;
+                    color: #413d3d
+                }
+                .off{
+                    font-size: 13px;
+                    position: absolute;
+                    left: 505px;
+                    top: 99px;
+                    font-weight: bold;
+                    color: #413d3d
+                }
+                .ba{
+                    font-size: 13px;
+                    position: absolute;
+                    left: 652px;
+                    top: 99px;
+                    font-weight: bold;
+                    color: #413d3d
+                }
+                .pet{
+                    font-size: 13px;
+                    position: absolute;
+                    left: 747px;
+                    top: 99px;
+                    font-weight: bold;
+                    color: #413d3d
+
+                }
+                .bea{
+                    font-size: 13px;
+                    position: absolute;
+                    left: 857px;
+                    top: 99px;
+                    font-weight: bold;
+                    color: #413d3d
+                }
+
+                .big{
+                    font-size: 17px;
+                    color: black;
+                    font-weight: bold;
+                    padding-top: 145px;
+                }
+                #see {
+                    font-size: 12px;
+                    color: #ec3c04;
+                    position: absolute;
+                    top: 145px;
+                    left: 891px;
+                    font-weight: bold;
+                }
+                .inner-box2{
+                    height: 249px;
+                    width:  100%;
+                    background-color: #fff;
+                    position: absolute;
+                    top: 186px;
+                    left: 0px;
+                    display: flex;
+                    justify-content: space-between;
+   
+                } 
+    .product{       
+        border-radius: 15px;
+        height: 245px;
+        width: 144px;
+        object-fit: contain;
+    }
+      
+    .inner-box3 {
+        
+            width: 678px;
+            height: 135px;
+            background-color: #fff;
+            position: absolute;
+            top: 827px;
+            left: -28px;
+        }
+    
+    
+        #part {
+               color: rgba(2, 6, 12, 0.6);
+            font-size: 9px;
+            padding-top: 23px;
+            font-weight: bold;
+            padding-left: 32px;
+
+        }
+    #gf{
+    
+            color: #e2d9d9;
+            font-size: 9px;
+            position: absolute;
+            top: 36px;left: 32px;
+            font-weight: bold;
+    }
+    #fass{
+    
+            
+        
+            color: #e2d9d9;
+            font-size: 9px;
+            position: absolute;
+            top:50px;left: 32px;
+            font-weight: bold;
+    }
+  
+    #sho {
+        font-size: 10px;
+        color: #e2d9d9;
+        position: absolute;
+        top: 35px;
+        right: -253px;
+    }
+
+    
+    #line2 {
+        
+            width: 138%;
+            height: 2px;
+            background-color: #e2d9d9;
+            position: absolute;
+            top: 23px;
+            left: 0px;
+    }
+    #line3 {
+        
+        width: 138%;
+        height: 2px;
+        background-color: #e2d9d9;
+        position: absolute;
+        top: 78px;
+        left: 0px;
+}
+
+    #hand {
+        height: 29px;
+        width: 29px;
+        position: absolute;
+        left: -3px;
+        top: 16px;
+
+    }
+    
+    #outer-box4 {
+        width: 942px;
+        height: 988px;
+        background-color: rgb(2, 6, 12);
+        position: absolute;
+        top: 135px;
+        display: flex;
+       justify-content: space-between;
+   
+        
+        
+    }  
+    
+    .footer{
+        width: 942px;
+        height: 568px;
+        background-color:  rgb(2, 6, 12);
+        position: absolute;
+        top: 380px;
+        display: flex;
+        justify-content: space-around;
+    }
+    
+    
+    #mob {
+        width: 958px;
+        height: 192px;
+        position: absolute;
+        top: 0px;
+        left: -11px;
+    }
+    #swi {
+        height: 65px;
+        width: 44px;
+        position: absolute;
+        top: 235px;
+        left: 112px;
+    }
+    #c {
+        height: 15px;
+        width: 19px;
+        position: absolute;
+        top: 308px;
+        left: 114px;
+    }
+    #bun {
+        font-size: 15px;
+        color:silver;
+        position: absolute;
+        top: 292px;
+        left: 136px;
+        font-weight: bold;
+    }
+    
+    #tec {
+        font-size: 15px;
+        color: silver;
+        position: absolute;
+        top: 312px;
+        left: 118px;
+        font-weight: bold;
+    }
+    
+    
+    .head{
+        font-size: 20px;
+        color: #e2d9d9;
+        font-weight: bold;
+    }
+    .par{
+        font-size: 17px;
+        color: rgba(255, 255, 255, 0.6);
+        font-weight:bold;
+    }
+     #head1{
+        
+        font-size: 20px;
+        color: #e2d9d9;
+        padding-top: 36px;
+        font-weight: bold;
+     }  
+     #par1{
+        font-size: 17px;
+        color: rgba(255, 255, 255, 0.6);
+        font-weight: bold;
+     }
+     #par2 {
+        font-size: 17px;
+        color: rgba(255, 255, 255, 0.6);
+        font-weight: bold;
+        line-height: 11px;
+     }
+     
+     .inner-box4 {
+        background-color:  rgb(2, 6, 12);
+        width: 301px;
+        height: 388px;
+        
+     }
+    
+    .inner-box5{
+       background-color:  rgb(2, 6, 12);
+        width: 131px;
+        height: 500px;
+    }
+    .inner-box6{
+       background-color:  rgb(2, 6, 12);
+         width: 131px; 
+        height: 390px;
+    
+        
+    }
+   .inner-box7{
+   background-color:  rgb(2, 6, 12);
+    width: 131px; 
+   height: 569px;
+   }
+    #footer2 {
+    width: 170px;
+    height: 34px;
+    background-color: rgb(2, 6, 12);
+    position: absolute;
+    top: 663px;
+    left: 28px;
+    border-radius: 6px;
+    border: 1px solid;
+    color: rgba(255, 255, 255, 0.6);
+}
+
+
+
+#innerf{
+    height: 100px;
+    width: 100px;
+}
+.cate {
+    font-size: 17px;
+    color: rgba(255, 255, 255, 0.6);
+    font-weight: bold;
+    line-height: 11px;
+    position: absolute;
+    top: -4px;
+    left: 16px;
+}
+#sim{
+position: relative;
+top: 7px;
+left: 139px;
+}
+
+#footer3 {
+    width: 114px;
+    height: 35px;
+    background-color: rgb(2, 6, 12);
+    position: absolute;
+    top: 671px;
+    left: 394px;
+    border-radius: 6px;
+    border: 1px solid;
+    color: rgba(255, 255, 255, 0.6);
+}
+#simi1 {
+    position: absolute;
+    top: 8px;
+    left: 89px;
+}
+    #last {
+        height: 37px;
+        width: 145px;
+        background-color:rgb(2, 6, 12);
+        position: absolute;
+        top: 734px;
+        left: 30px;
+    }
+#c1 {
+    height: 15px;
+    width: 19px;
+    position: absolute;
+    top: 11px;
+    left: -6px;
+}
+#cate1 {
+    font-size: 17px;
+    color: #fff;
+    font-weight: bold;
+    line-height: 11px;
+    position: absolute;
+    top: -4px;
+    left: 16px;
+}
+    #last1 {
+        height: 37px;
+        width: 145px;
+        background-color: #fff;
+        position: absolute;
+        top: 883px;
+        left: 774px;
+    }
+    #face {
+        position: absolute;
+        top: 88px;
+        left: 730px;
+        width: 133px;
+
+    }
